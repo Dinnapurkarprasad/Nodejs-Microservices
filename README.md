@@ -45,8 +45,8 @@ rabbitmq: Acts as the communication backbone (message queue) between services.
 
 Clone this repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Dinnapurkarprasad/Nodejs-Microservices
+cd SOCIAL-MEDIA
 
 Make sure Docker and Docker Compose are installed on your system.
 
@@ -108,8 +108,6 @@ Hands-on understanding of API Gateway pattern
 📌 To-Do (Coming Soon)
 
 Add Swagger API documentation for each service
-
-Add centralized logging (maybe with ELK Stack or Promtail)
 
 Setup rate limiting and token authentication on API Gateway
 
