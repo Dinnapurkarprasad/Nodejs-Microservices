@@ -1,4 +1,4 @@
-🚀 Microservices Node.js Project
+<h1>🚀 Microservices Node.js Project</h1>
 This is a beginner-friendly but powerful microservices-based backend architecture using Node.js, Redis, RabbitMQ, and Docker Compose. Each service is isolated and communicates asynchronously via a message queue (RabbitMQ), making it scalable, fault-tolerant, and real-world ready.
 
 I built this project while learning core backend concepts and DevOps tools to simulate how modern distributed systems work.
